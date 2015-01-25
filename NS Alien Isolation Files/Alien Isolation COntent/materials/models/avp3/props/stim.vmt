@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/avp3/props/stim"
+	"$bumpmap" 		"models/avp3/props/stim_norm"
+	"$nocull" 1
+	"$halflambert" "1"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.2 .2 .2]" 
+	"$envmapsaturation" .3
+	"$envmapcontrast" .3
+
+	"$phong" "1"
+	"$phongexponent" 10
+//	"$phongexponenttexture" "models/avp3/weapons/pulse_rifle/pulse_rifle_exp"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[ .3 .8 7]"
+	"$phongalbedotint" "1"
+
+}

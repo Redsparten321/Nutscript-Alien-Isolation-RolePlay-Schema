@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	$basetexture 	"models\bloocobalt\resident evil\bsaa_re6\eyeball_finn_bm"
+	
+	$bumpmap 		"models\bloocobalt\resident evil\bsaa_re6\eyeball_finn_nm"
+
+	"$halflambert" 1
+	"$nocull" 1
+
+ 	"$phong" 1
+	"$phongboost" 1
+	"$phongexponent" 15
+
+	"$phongfresnelranges" "[0.1 0.5 0.4]"
+}

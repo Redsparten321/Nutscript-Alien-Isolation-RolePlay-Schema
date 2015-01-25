@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\bloocobalt\resident evil\bsaa_re6\Finn_Hair_BM"
+	"$bumpmap" 		"models\bloocobalt\resident evil\bsaa_re6\Finn_Hair_NM"
+	
+	$alphatest 1
+	$nocull 1
+	
+	$allowalphatocoverage 1
+	$alphatestreference 0.25
+	
+	$ambientocclusion 0
+	
+	$halflambert 1
+	
+	$phong 1
+	$phongexponent 5
+	$phongwarptexture "models\vindictus\shared\phongwarp_hair"
+	$phongboost 2
+	$phongfresnelranges "[0.2 0.5 0.7]"
+	$phongtint "[.22 .23 .2]"
+	
+	$rimlight 1
+	$rimlightexponent 15
+	$rimlightboost .2
+}

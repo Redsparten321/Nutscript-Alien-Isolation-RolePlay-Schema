@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/AvP3/Syntetic/WeylandBodyGuard/weylandbodyguard_body"
+	"$bumpmap" "models/AvP3/Syntetic/Combat/Combat_BodyNorms"
+	"$halflambert" "1"	
+
+	"$baseTexturealphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .3 .3 .3 ]"
+	"$envmapsaturation" ".01"
+	"$envmapcontrast" "0.1"
+ 	"$envmapFresnel" "1"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models/AvP3/Syntetic/Combat\Combat_Body_exp"
+//	"$phongexponent" 3
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[ .2 .9 2]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"						
+	"$rimlightexponent" "8"				
+	"$rimlightboost" ".3"
+	"$rimmask" "1"
+}

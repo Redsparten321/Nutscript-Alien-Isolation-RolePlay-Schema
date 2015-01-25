@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"models\bloocobalt\resident evil\base_male/base_m_16_d"
+	"$bumpmap" 					"models\bloocobalt\resident evil\base_male/base_m_16_n"
+
+	$halflambert 1
+	
+	$detail			"models\vindictus\shared\detail_skin2"
+	$detailscale 8
+	$detailblendfactor 1
+	
+	$lightwarptexture "models\vindictus\shared\lightwarp_flesh"
+
+	$phong 1
+	$phongexponenttexture	"models\vindictus\shared\albedo_tintdefine"
+	$phongalbedotint 1
+	$phongexponent 7
+	$phongboost 2
+	$phongfresnelranges "[0.5 1.5 8.0]"
+	
+	
+	$rimlight 1 
+	$rimlightexponent 20
+	$rimlightboost 1
+}

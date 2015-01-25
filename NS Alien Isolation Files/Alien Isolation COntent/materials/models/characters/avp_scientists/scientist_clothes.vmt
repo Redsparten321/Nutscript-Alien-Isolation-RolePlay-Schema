@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models\characters\avp_scientists\scientist_clothes_c"
+	"$bumpmap" 		"models\characters\avp_scientists\scientist_clothes_n"
+	"$nocull" 			"1"
+	
+	"$blendtintbybasealpha" "1" 
+// 	"$blendtintcoloroverbase" "0"  
+
+	"$colortint_base" "{160 223 255}"
+
+	"$phong" "1"
+//	"$phongexponent" "5"
+	"$phongexponenttexture" "models\characters\avp_scientists\heller_clothes_exp"
+	"$phongboost" "1.5"
+ 	"$phongfresnelranges" "[0.3 0.7 5]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "2"
+	"$rimmask" "1"
+}

@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$no_draw"	1
+	"$baseTexture" 			"models\bloocobalt\resident evil\bsaa_re6\facemaps\Tim_Hair_warm"
+	"$bumpmap"    			"models\bloocobalt\resident evil\bsaa_re6\facemaps\Tim_Hair_N_warm"
+	
+	$translucent 1
+	
+	"$ambientocclusion" "0"
+	
+	$lightwarptexture "models\vindictus\shared\lightwarp_hair"
+	
+	$phong 1
+	$phongboost	3.0
+	$phongexponent 0.55
+	$phongtint "[0.66 0.60 0.56]"
+	$phongfresnelranges	"[0.5 0.35 0.6]"
+	$phongwarptexture "models\vindictus\shared\phongwarp_hair"
+	
+	$rimlight 1 
+	$rimlightexponent 20
+	$rimlightboost 0.05
+}

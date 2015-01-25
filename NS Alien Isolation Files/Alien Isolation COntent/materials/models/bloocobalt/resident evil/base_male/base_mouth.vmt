@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models\bloocobalt\resident evil\base_male/base_m_d"
+	"$bumpmap" 		"models\bloocobalt\resident evil\base_male/base_m_n"
+	"$model" 1
+	"$clientshader" "MouthShader"
+	"$halflambert" 1
+}

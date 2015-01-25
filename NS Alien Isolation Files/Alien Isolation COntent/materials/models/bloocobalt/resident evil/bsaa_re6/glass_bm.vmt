@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\bloocobalt\resident evil\bsaa_re6\glass_BM"
+	"$bumpmap" 		"models\bloocobalt\resident evil\bsaa_re6\glass_NM"
+	"$model" 1
+	"$halflambert" 1
+//	"$additive" 1
+
+	"$envmapmask" 	"models\bloocobalt\resident evil\bsaa_re6\glass_Envmapmask"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmaptint" "[ 0.75 0.75 0.75 ]"
+
+	"$phong" "1"
+	"$phongexponent" "75"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[ 1 6 15 ]"
+}

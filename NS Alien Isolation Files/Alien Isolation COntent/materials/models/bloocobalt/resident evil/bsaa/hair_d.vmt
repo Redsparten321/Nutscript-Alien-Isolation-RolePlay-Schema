@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models\bloocobalt\serah\hair_d"
+	"$bumpmap" 		"models\bloocobalt\serah\hair_n"
+	
+	$alphatest 1
+	$allowalphatocoverage 1
+	$alphatestreference 0.25
+	
+	$phong 1
+	$phongexponent 5
+	$phongWarpTexture "models\bloocobalt\serah\hair_gloss"
+	$phongboost 2
+	$phongfresnelranges "[0.2 0.5 0.7]"
+	$phongtint "[.22 .23 .2]"
+	
+	$rimlight 1
+	$rimlightexponent 15
+	$rimlightboost .2
+}

@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\bloocobalt\resident evil\bsaa_re6\ChestD_Black"
+
+	"$bumpmap" 		"models\bloocobalt\resident evil\bsaa_re6\ChestD_NM"
+	
+	$halflambert 1
+	$nocull 1
+	
+	$detail		"models\bloocobalt\resident evil\detail\BH_cloth_05_DM"
+	$detailscale 12
+	$detailblendfactor 1.0
+	$detailblendmode 14
+	
+	$lightwarptexture	"models\vindictus\shared\lightwarp_soft_white"
+
+	$phong 1
+	$phongexponenttexture	"models\vindictus\shared\albedo_tintdefine"
+	$phongalbedotint 1
+	$phongexponent 3
+	$phongboost 5
+	$phongfresnelranges "[0.5 1.5 8.0]"
+	
+	// $rimlight 1
+	$rimlighexponent 25
+	$rimlightboost 0.01
+}

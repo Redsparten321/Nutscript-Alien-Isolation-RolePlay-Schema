@@ -1,0 +1,20 @@
+EyeRefract
+{
+	"$Iris" 				"models\bloocobalt\resident evil\base_male\brown_iris" 
+	"$AmbientOcclTexture" 	"models\bloocobalt\resident evil\base_male\gambler_eye_ao" 
+	"$Envmap" 				"models\bloocobalt\resident evil\base_male\eye-reflection-cubemap-" 
+	"$CorneaTexture "		"models\bloocobalt\resident evil\base_male\eye-cornea" 
+	
+	"$EyeballRadius" "0.75" 
+	"$AmbientOcclColor" "[.6 .4 .3]" 
+	"$Dilation" ".6" 
+	"$ParallaxStrength" "0.25" 
+	"$CorneaBumpStrength" ".5" 
+	
+	"$halflambert" 1
+	"$nodecal" 1
+	"$ambientocclusion" 1
+
+	"$RaytraceSphere" 1 
+	"$SphereTexkillCombo" 0 
+}

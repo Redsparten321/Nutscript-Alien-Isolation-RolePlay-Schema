@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\bloocobalt\resident evil\bsaa_re6\eyelashes_finn_bm"
+//	"$bumpmap" 		"models\bloocobalt\resident evil\bsaa_re6\eyelashes_finn_nm"
+	
+	$translucent 1
+	
+	$nocull 1
+	
+	"$phong"				"1"
+	"$phongboost"			"0.75"
+//	"$phongexponent"		"4"
+//	"$phongexponenttexture" "models\bloocobalt\resident evil\bsaa_re6\eyelashes_finn_mm"
+	"$phongtint"			"[.85 .85 1]"
+	"$phongfresnelranges"	"[.5 .85 30]"
+	$rimlight 	1	
+	$rimlightexponent 50
+	$rimlightboost 0.1
+	
+	$ambientocclusion 0
+}

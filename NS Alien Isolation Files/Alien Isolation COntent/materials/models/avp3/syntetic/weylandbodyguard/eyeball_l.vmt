@@ -1,0 +1,19 @@
+"eyes"
+{
+	"$basetexture" "models/AvP3/Syntetic/WeylandBodyGuard/eyeball"
+	"$bumpmap" "models/AvP3/Syntetic/WeylandBodyGuard/MrBumpy"
+	"$iris" "models/AvP3/Syntetic/WeylandBodyGuard/pupil_l"
+
+	"$Envmap"             "Engine/eye-reflection-cubemap-"    // Reflection environment map
+	"$CorneaTexture"      "Engine/eye-cornea"                 // Special texture that has 2D cornea normal in RG and other data in BA
+
+	"$EyeballRadius" "0.5"				// Default 0.5
+	"$AmbientOcclColor" "[.33 .33 .33]"	// Default 0.33, 0.33, 0.33
+	"$Dilation" "0.5"					// Default 0.5
+	"$ParallaxStrength" "0.25"          // Default 0.25
+	"$CorneaBumpStrength" ".5"			// Default 1.0
+	"$AmbientOcclusion" "1"
+
+	"$halflambert" "1"
+	"$nodecal" "1"
+}

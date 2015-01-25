@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/AvP3/Syntetic/Combat/Combat_Mask"
+	"$bumpmap" "models/AvP3/Syntetic/Combat/Combat_MaskNorms"
+
+	"$phong" "1"
+	"$phongboost" "0.5"	
+	"$phongexponent" 15
+	"$phongfresnelranges"	"[ 0.5 5 1 ]"
+	"$phongexponent" "1"
+	"$phongalbedotint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "0.25"
+	"$rimlightboost" "0.5"
+}

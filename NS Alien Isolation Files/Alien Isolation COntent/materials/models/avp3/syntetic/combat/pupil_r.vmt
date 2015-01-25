@@ -1,0 +1,5 @@
+"Eyeball"
+{
+	"$basetexture" "models/AvP3/Syntetic/WeylandBodyGuard/pupil_R"
+	"$bumpmap" "models/AvP3/Syntetic/WeylandBodyGuard/MrBumpy"
+}
